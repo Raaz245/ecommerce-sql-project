@@ -37,14 +37,14 @@ analyzing data from Olist — Brazil's largest e-commerce marketplace.
 ## Key Business Insights
 
 
- Total Revenue  -- $ 16,008,872 
- Total Orders   --- 99,441 
-Average Order Value -- R$ 154.10 
-Top Payment Method | Credit Card (76,795 transactions) 
- Top City by Orders | Sao Paulo (15,540 orders) |
- Top Product Category | Bed/Bath/Table (11,115 orders) |
- One-Time Buyers | 93,099 (97%) |
- Repeat Buyers | 2,997 (3%) |
+* Total Revenue  -- $ 16,008,872 
+* Total Orders   --- 99,441 
+* Average Order Value -- R$ 154.10 
+* Top Payment Method | Credit Card (76,795 transactions) 
+* Top City by Orders | Sao Paulo (15,540 orders) |
+* Top Product Category | Bed/Bath/Table (11,115 orders) |
+* One-Time Buyers | 93,099 (97%) |
+* Repeat Buyers | 2,997 (3%) |
 
 
 
@@ -78,26 +78,18 @@ Top Payment Method | Credit Card (76,795 transactions)
 
 ---
 
-##Project Structure
-ecommerce-project/
+## Project Structure
+```text
 
+ecommerce-sql-project/
+├── schema/
+│   └── create_tables.sql         # Database schema
+├── analysis/
+│   └── ecommerce_analysis.sql    # All business queries
+└── insights/
+    └── insights.md               # Key findings
 
-
-1. schema/
-
-. create_tables.sql >> Database schema
-
-│
-
-2. analysis/
-
- . ecommerce_analysis.sql ( All business queries)
-
-3.insights/
-
-. insights.md(Key findings)
-
-##Tools Used
+## Tools Used
 - PostgreSQL 18
 - pgAdmin 4
 - VS Code
