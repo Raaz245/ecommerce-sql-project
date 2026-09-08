@@ -233,4 +233,4 @@ real-world SQL skills without a formal degree.
 The goal was not to complete a tutorial — it was to answer questions a real
 business would pay to have answered, using real data at real scale (1.5M+ records).
 
-**Connect:** [LinkedIn](www.linkedin.com/in/shivam-yadav-0482b4416) | [GitHub](https://github.com/Raaz245)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/shivam-yadav-0482b4416) | [GitHub](https://github.com/Raaz245)
