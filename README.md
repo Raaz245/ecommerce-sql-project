@@ -1,4 +1,4 @@
-[README_FINAL (1).md](https://github.com/user-attachments/files/33187134/README_FINAL.1.md)
+[README.md](https://github.com/user-attachments/files/33187134/README_FINAL.1.md)
 # E-Commerce Sales Intelligence System
 
 [![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)](https://www.postgresql.org)
